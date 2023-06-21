@@ -5,6 +5,6 @@ In this project we are classifying various types of Eye Diseases that people get
 **To set up the Crop Recommendation System, follow these steps:**
 
 - Clone the repository to your local machine using the following command: [Click here](https://github.com/ramya-bashkaran/Eye_Disease_Classification.git)
-- Navigate to the project directory: cd NM
+- Navigate to the project directory: cd NM_ODIR_EYE_DISEASE_CLASSIFICATION_PROJECT
 - Install the required dependencies by running the following command: pip install -r requirements.txt
 - Download the dataset at [kaggle](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification) and place it in the project directory.
